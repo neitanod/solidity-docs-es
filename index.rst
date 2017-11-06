@@ -68,7 +68,6 @@ Integraciones de Solidity disponibles
 
 * `Vim Solidity <https://github.com/tomlion/vim-solidity/>`_
     Plugin para el editor Vim que incluye resaltar la sintáxis.
-    Plugin for the Vim editor providing syntax highlighting.
 
 * `Vim Syntastic <https://github.com/scrooloose/syntastic>`_
     Plugin para el editor Vim que incluye la verificación de la compilación. 
